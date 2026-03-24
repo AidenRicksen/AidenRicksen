@@ -1,12 +1,12 @@
-# Hi there, I'm Aiden 👋
+# Hi there, I'm Aiden!
 
-I'm a **Data Science student** at Tilburg University with a passion for building things — from machine learning models to games and simulations.
+I'm a **Cognitive Science and Artificial Intelligence student** at Tilburg University with a passion for building things — from machine learning models to games and simulations.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · C++ · R · SQL  
+**Languages:** Python · C++ · R ·
 **ML/Data:** scikit-learn · pandas · NumPy · matplotlib  
 **Other:** FLTK · Git
 
